@@ -70,7 +70,7 @@ footer{
     gap: .8rem;
 }
 
-button{
+footer button{
     margin-top: 3.2rem;
     background-color: var(--color-brand-color);
     color:var(--color-text-color-primary);
@@ -82,6 +82,6 @@ button{
     border-radius: .8rem;
 }
 
-button:hover{
+footer button:hover{
     background-color: var(--color-brand-color-light);
 }
